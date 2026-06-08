@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/rubanofficial/Leetcode/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/rubanofficial/Leetcode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/rubanofficial/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rubanofficial/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rubanofficial/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rubanofficial/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rubanofficial/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/rubanofficial/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rubanofficial/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/rubanofficial/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
