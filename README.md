@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rubanofficial/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rubanofficial/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rubanofficial/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/rubanofficial/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rubanofficial/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/rubanofficial/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rubanofficial/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rubanofficial/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rubanofficial/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rubanofficial/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/rubanofficial/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rubanofficial/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rubanofficial/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rubanofficial/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rubanofficial/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rubanofficial/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/rubanofficial/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rubanofficial/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rubanofficial/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
@@ -398,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rubanofficial/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rubanofficial/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/rubanofficial/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rubanofficial/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rubanofficial/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
