@@ -6,10 +6,8 @@ class Solution {
 
         int n = s.length();
 
-        // dp[i][j] = true if substring i..j is palindrome
         boolean[][] dp = new boolean[n][n];
 
-        // Fill DP table
         for (int len = 1; len <= n; len++) {
 
             for (int i = 0; i + len - 1 < n; i++) {
