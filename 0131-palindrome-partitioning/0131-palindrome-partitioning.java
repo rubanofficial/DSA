@@ -32,7 +32,7 @@ class Solution {
         return res;
     }
 
-    private void backtrack(int start,String s,boolean[][] dp,List<String> path) {
+     void backtrack(int start,String s,boolean[][] dp,List<String> path) {
 
         if (start == s.length()) {
             res.add(new ArrayList<>(path));
