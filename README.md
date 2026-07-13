@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/rubanofficial/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/rubanofficial/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rubanofficial/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/rubanofficial/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1280-students-and-examinations](https://github.com/rubanofficial/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rubanofficial/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Union-Find
