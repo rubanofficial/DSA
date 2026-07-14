@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/rubanofficial/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1280-students-and-examinations](https://github.com/rubanofficial/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rubanofficial/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rubanofficial/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Union-Find
 |  |
 | ------- |
